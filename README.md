@@ -5,10 +5,13 @@ Para obtener el dataset se extraen los datos mediante la técnica de raspado de 
 
 ## Bibliotecas utilizadas
 
-pip3 install builtwith.
-pip3 install python-whois.
-pip3 install requests.
-pip3 install beautifulsoup4.
+pip3 install builtwith
+
+pip3 install python-whois
+
+pip3 install requests
+
+pip3 install beautifulsoup4
 
 ## Miembro del equipo
 
